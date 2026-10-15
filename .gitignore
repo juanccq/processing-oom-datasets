@@ -3,3 +3,4 @@ __pycache__/
 .venv/
 utils/transaction_logs.json
 utils/users.csv
+assets/.$architecture.drawio.bkp
